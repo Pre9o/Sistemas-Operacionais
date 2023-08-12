@@ -1,0 +1,7 @@
+TECL    DEFINE 4
+TECLOK  DEFINE 5
+TELA    DEFINE 6
+TELAOK  DEFINE 7
+rand define 10
+
+le rand
