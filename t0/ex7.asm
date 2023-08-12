@@ -4,4 +4,3 @@ TELA    DEFINE 6
 TELAOK  DEFINE 7
 rand define 10
 
-le rand
